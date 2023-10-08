@@ -16,8 +16,8 @@ In order to simplify the execution of this project, we have provided you with tw
 
 
 ## Requirements
-- Your page should display all of the elements (and their information) in the chosen array when the website is loaded
-- Your page should have at least one `filter`, e.g. on genre or cuisine type
+<!-- - Your page should display all of the elements (and their information) in the chosen array when the website is loaded -->
+<!-- - Your page should have at least one `filter`, e.g. on genre or cuisine type -->
 - Your page should be able to `sort` on at least one property, e.g.
   for books:
     - from newest to oldest and vice versa
